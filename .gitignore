@@ -1,0 +1,34 @@
+# Python bytecode
+__pycache__/
+*.pyc
+*.pyo
+
+# CatBoost artifacts
+catboost_info/
+
+# Hidden tool artifacts
+.sixth/
+
+# IDE and editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data, analysis and results
+data_analysis/
+Ⅰ_results_analysis/
+Ⅱ_results_analysis/
+data/
+results/
+
+# Temp files
+*.tmp
+*.tfevents
