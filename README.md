@@ -67,7 +67,7 @@ pip install -r requirements.txt
 Train the models
 
 ```bash
-python train.py
+python main.py
 ```
 
 Launch the GUI
